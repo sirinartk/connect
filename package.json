@@ -113,7 +113,7 @@
     "express-session": "^1.15.5",
     "glob": "^7.1.2",
     "hogan.js": "^3.0.2",
-    "html-to-text": "^3.3.0",
+    "html-to-text": "^6.0.0",
     "ioredis": "^3.1.4",
     "ldapjs": "mcavage/node-ldapjs",
     "lodash": "^4.17.4",
