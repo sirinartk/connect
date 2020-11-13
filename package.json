@@ -120,7 +120,7 @@
     "mellt": "~1.0.0",
     "modinha": "^0.1.0",
     "modinha-redis": "^0.1.0",
-    "nodemailer": "^4.0.1",
+    "nodemailer": "^6.4.16",
     "passport-adauth": "^0.1.2",
     "passport-ldapauth": "^2.0.0",
     "passport-local": "~1.0.0",
