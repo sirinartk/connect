@@ -100,7 +100,7 @@
     "anvil-connect-jwt": "^0.1.8",
     "anvil-connect-keys": "^0.1.0",
     "async": "^2.5.0",
-    "base64url": "^2.0.0",
+    "base64url": "^3.0.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.17.2",
     "connect-flash": "^0.1.1",
