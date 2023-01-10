@@ -104,7 +104,7 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.17.2",
     "connect-flash": "^0.1.1",
-    "connect-redis": "^3.3.0",
+    "connect-redis": "^3.3.1",
     "consolidate": "^0.14.5",
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.4",
@@ -114,7 +114,7 @@
     "glob": "^7.1.2",
     "hogan.js": "^3.0.2",
     "html-to-text": "^3.3.0",
-    "ioredis": "^3.1.4",
+    "ioredis": "^4.0.0",
     "ldapjs": "mcavage/node-ldapjs",
     "lodash": "^4.17.4",
     "mellt": "~1.0.0",
@@ -131,6 +131,6 @@
     "qs": "^6.5.0",
     "revalidator": "^0.3.1",
     "semver": "^5.4.1",
-    "superagent": "^3.5.2"
+    "superagent": "^3.6.1"
   }
 }
